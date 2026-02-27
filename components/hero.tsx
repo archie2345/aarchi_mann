@@ -167,28 +167,6 @@ export function Hero() {
             </motion.a>
           ))}
         </motion.div>
-
-        {/* Scroll indicator */}
-        <motion.div
-          className="absolute bottom-0 right-0 flex flex-col items-center gap-2"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 2.5, duration: 1 }}
-        >
-          <span className="text-[10px] uppercase tracking-[0.2em] text-muted-foreground">
-            Scroll
-          </span>
-          <motion.div
-            className="h-12 w-px bg-foreground/30"
-            animate={{ scaleY: [0, 1, 0] }}
-            transition={{
-              duration: 2,
-              repeat: Infinity,
-              ease: "easeInOut",
-            }}
-            style={{ transformOrigin: "top" }}
-          />
-        </motion.div>
       </div>
     </section>
   )
