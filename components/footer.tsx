@@ -28,7 +28,6 @@ export function Footer() {
               GitHub
             </a>
             <span className="text-xs text-muted-foreground">
-              Designed & built by Aarchi
             </span>
           </div>
         </div>
