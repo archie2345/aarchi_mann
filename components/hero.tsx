@@ -145,7 +145,7 @@ export function Hero() {
             },
             {
               label: "GitHub",
-              href: "https://github.com/aarchimann",
+              href: "https://github.com/archie2345/aarchi_mann",
               external: true,
             },
           ].map((link, i) => (
