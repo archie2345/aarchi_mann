@@ -8,7 +8,6 @@ const navLinks = [
   { label: "About", href: "#about" },
   { label: "Experience", href: "#experience" },
   { label: "Work", href: "#work" },
-  { label: "Resume", href: "/Aarchi_Mann_Resume.pdf", external: true },
 ]
 
 export function Navigation() {
