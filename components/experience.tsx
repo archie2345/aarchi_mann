@@ -24,7 +24,7 @@ const education = [
     degree: "Bachelor of Advanced Computing",
     school: "University of Sydney",
     period: "2022 - Present",
-    note: "Software Development Major / WAM 77",
+    note: "Software Development Major",
   },
 ]
 
