@@ -136,7 +136,7 @@ export function Hero() {
           {[
             {
               label: "Email",
-              href: "mailto:aarchi.mann@sydney.edu.au",
+              href: "mailto:aarchimann4@gmail.com",
             },
             {
               label: "LinkedIn",
