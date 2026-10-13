@@ -34,7 +34,7 @@ export function Hero() {
   const subWords = [
     "a",
     "computing",
-    "student",
+    "graduate",
     ",",
     "software",
     "developer",
