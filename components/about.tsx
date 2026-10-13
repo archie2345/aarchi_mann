@@ -14,7 +14,7 @@ export function About() {
               About
             </p>
             <h2 className="mt-6 font-serif text-3xl leading-snug tracking-tight text-foreground sm:text-4xl">
-              {"I'm"} a computing student at the University of Sydney with a
+              {"I'm"} a recent computing graduate from the University of Sydney with a
               passion for building secure, user-centric software.
             </h2>
             <p className="mt-6 text-sm leading-relaxed text-muted-foreground">
