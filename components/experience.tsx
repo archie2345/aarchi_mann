@@ -23,7 +23,7 @@ const education = [
   {
     degree: "Bachelor of Advanced Computing",
     school: "University of Sydney",
-    period: "2022 - Present",
+    period: "2022 - 2026",
     note: "Software Development Major",
   },
 ]
@@ -33,6 +33,12 @@ const certifications = [
     title: "IBM AI Engineering Professional Certificate",
     issuer: "IBM / Coursera",
     period: "Feb 2026",
+    link: "https://www.coursera.org/account/accomplishments/professional-cert/68KLS35VJEI9",
+  },
+  {
+    title: "Google Cybersecurity Professional Certificate",
+    issuer: "Google / Coursera",
+    period: "Sep 2026",
     link: "https://www.coursera.org/account/accomplishments/professional-cert/68KLS35VJEI9",
   },
 ]
